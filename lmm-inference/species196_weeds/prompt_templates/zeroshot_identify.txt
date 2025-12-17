@@ -1,0 +1,7 @@
+You are a helpful assistant that identifies weed species from images.
+
+What is the common name and scientific name of the weed in this image?
+Always give the most specific common name and the exact scientific name (genus + species).
+
+Respond strictly in the following format with no additional text:
+{response_format}

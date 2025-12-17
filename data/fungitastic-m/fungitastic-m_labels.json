@@ -1,0 +1,2158 @@
+{
+    "0": {
+        "name": "Amanita huijsmanii F.Massart & Rouzeau",
+        "most_common_name": "Amanita huijsmanii F.Massart & Rouzeau",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita huijsmanii F.Massart & Rouzeau": 0
+        }
+    },
+    "1": {
+        "name": "Russula subfoetens W.G.Sm.",
+        "most_common_name": "Russula subfoetens W.G.Sm.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula subfoetens W.G.Sm.": 0
+        }
+    },
+    "2": {
+        "name": "Amanita olivaceogrisea Kalamees",
+        "most_common_name": "Amanita olivaceogrisea Kalamees",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita olivaceogrisea Kalamees": 0
+        }
+    },
+    "3": {
+        "name": "Mycena picta (Fr.) Harmaja",
+        "most_common_name": "Mycena picta (Fr.) Harmaja",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena picta (Fr.) Harmaja": 0
+        }
+    },
+    "4": {
+        "name": "Russula mustelina Fr.",
+        "most_common_name": "Russula mustelina Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula mustelina Fr.": 0
+        }
+    },
+    "5": {
+        "name": "Amanita regalis (Fr.) Michael",
+        "most_common_name": "Amanita regalis (Fr.) Michael",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita regalis (Fr.) Michael": 0
+        }
+    },
+    "6": {
+        "name": "Mycena smithiana K\u00fchner",
+        "most_common_name": "Mycena smithiana K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena smithiana K\u00fchner": 0
+        }
+    },
+    "7": {
+        "name": "Mycena polyadelpha (Lasch) K\u00fchner",
+        "most_common_name": "Mycena polyadelpha (Lasch) K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena polyadelpha (Lasch) K\u00fchner": 0
+        }
+    },
+    "8": {
+        "name": "Clitocybe subspadicea (J.E.Lange) Bon & Chevassut",
+        "most_common_name": "Clitocybe subspadicea (J.E.Lange) Bon & Chevassut",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe subspadicea (J.E.Lange) Bon & Chevassut": 0
+        }
+    },
+    "9": {
+        "name": "Mycena pelliculosa Qu\u00e9l.",
+        "most_common_name": "Mycena pelliculosa Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena pelliculosa Qu\u00e9l.": 0
+        }
+    },
+    "10": {
+        "name": "Russula alnetorum Romagn.",
+        "most_common_name": "Russula alnetorum Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula alnetorum Romagn.": 0
+        }
+    },
+    "11": {
+        "name": "Russula anthracina Romagn.",
+        "most_common_name": "Russula anthracina Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula anthracina Romagn.": 0
+        }
+    },
+    "12": {
+        "name": "Mycena pseudopicta (J.E.Lange) K\u00fchner",
+        "most_common_name": "Mycena pseudopicta (J.E.Lange) K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena pseudopicta (J.E.Lange) K\u00fchner": 0
+        }
+    },
+    "13": {
+        "name": "Russula aquosa Leclair",
+        "most_common_name": "Russula aquosa Leclair",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula aquosa Leclair": 0
+        }
+    },
+    "14": {
+        "name": "Russula clavipes Velen.",
+        "most_common_name": "Russula clavipes Velen.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula clavipes Velen.": 0
+        }
+    },
+    "15": {
+        "name": "Mycena bulbosa (Cejp) K\u00fchner",
+        "most_common_name": "Mycena bulbosa (Cejp) K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena bulbosa (Cejp) K\u00fchner": 0
+        }
+    },
+    "16": {
+        "name": "Russula globispora (J.Blum) Bon",
+        "most_common_name": "Russula globispora (J.Blum) Bon",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula globispora (J.Blum) Bon": 0
+        }
+    },
+    "17": {
+        "name": "Russula rhodopus Zv\u00e1ra",
+        "most_common_name": "Russula rhodopus Zv\u00e1ra",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula rhodopus Zv\u00e1ra": 0
+        }
+    },
+    "18": {
+        "name": "Mycena maculata P.Karst.",
+        "most_common_name": "Mycena maculata P.Karst.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena maculata P.Karst.": 0
+        }
+    },
+    "19": {
+        "name": "Agaricus depauperatus (F.H.M\u00f8ller) Pil\u00e1t",
+        "most_common_name": "Agaricus depauperatus (F.H.M\u00f8ller) Pil\u00e1t",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus depauperatus (F.H.M\u00f8ller) Pil\u00e1t": 0
+        }
+    },
+    "20": {
+        "name": "Russula melzeri Zv\u00e1ra",
+        "most_common_name": "Russula melzeri Zv\u00e1ra",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula melzeri Zv\u00e1ra": 0
+        }
+    },
+    "21": {
+        "name": "Mycena xantholeuca K\u00fchner",
+        "most_common_name": "Mycena xantholeuca K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena xantholeuca K\u00fchner": 0
+        }
+    },
+    "22": {
+        "name": "Russula maculata Qu\u00e9l.",
+        "most_common_name": "Russula maculata Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula maculata Qu\u00e9l.": 0
+        }
+    },
+    "23": {
+        "name": "Russula puellula Ebbesen, F.H.M\u00f8ller & Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula puellula Ebbesen, F.H.M\u00f8ller & Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula puellula Ebbesen, F.H.M\u00f8ller & Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "24": {
+        "name": "Russula laeta Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula laeta Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula laeta Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "25": {
+        "name": "Russula insignis Qu\u00e9l.",
+        "most_common_name": "Russula insignis Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula insignis Qu\u00e9l.": 0
+        }
+    },
+    "26": {
+        "name": "Agaricus bisporus (J.Lange) Pilat",
+        "most_common_name": "Agaricus bisporus (J.Lange) Pilat",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus bisporus (J.Lange) Pilat": 0
+        }
+    },
+    "27": {
+        "name": "Russula seperina Dupain",
+        "most_common_name": "Russula seperina Dupain",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula seperina Dupain": 0
+        }
+    },
+    "28": {
+        "name": "Russula faustiana Sarnari",
+        "most_common_name": "Russula faustiana Sarnari",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula faustiana Sarnari": 0
+        }
+    },
+    "29": {
+        "name": "Clitocybe nitrophila Bon",
+        "most_common_name": "Clitocybe nitrophila Bon",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe nitrophila Bon": 0
+        }
+    },
+    "30": {
+        "name": "Mycena clavicularis (Fr.) Gillet",
+        "most_common_name": "Mycena clavicularis (Fr.) Gillet",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena clavicularis (Fr.) Gillet": 0
+        }
+    },
+    "31": {
+        "name": "Amanita lividopallescens (Boud.) K\u00fchner & Romagn.",
+        "most_common_name": "Amanita lividopallescens (Boud.) K\u00fchner & Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita lividopallescens (Boud.) K\u00fchner & Romagn.": 0
+        }
+    },
+    "32": {
+        "name": "Mycena aurantiomarginata (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena aurantiomarginata (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena aurantiomarginata (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "33": {
+        "name": "Russula aurea Pers.",
+        "most_common_name": "Russula aurea Pers.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula aurea Pers.": 0
+        }
+    },
+    "34": {
+        "name": "Russula farinipes Romell",
+        "most_common_name": "Russula farinipes Romell",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula farinipes Romell": 0
+        }
+    },
+    "35": {
+        "name": "Singerocybe phaeophthalma (Pers.) Harmaja",
+        "most_common_name": "Singerocybe phaeophthalma (Pers.) Harmaja",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Singerocybe phaeophthalma (Pers.) Harmaja": 0
+        }
+    },
+    "36": {
+        "name": "Mycena capillaripes Peck",
+        "most_common_name": "Mycena capillaripes Peck",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena capillaripes Peck": 0
+        }
+    },
+    "37": {
+        "name": "Russula vinosa Lindblad",
+        "most_common_name": "Russula vinosa Lindblad",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula vinosa Lindblad": 0
+        }
+    },
+    "38": {
+        "name": "Russula pelargonia Niolle",
+        "most_common_name": "Russula pelargonia Niolle",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula pelargonia Niolle": 0
+        }
+    },
+    "39": {
+        "name": "Russula acrifolia Romagn.",
+        "most_common_name": "Russula acrifolia Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula acrifolia Romagn.": 0
+        }
+    },
+    "40": {
+        "name": "Russula roseoaurantia Sarnari",
+        "most_common_name": "Russula roseoaurantia Sarnari",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula roseoaurantia Sarnari": 0
+        }
+    },
+    "41": {
+        "name": "Mycena vulgaris (Pers.) P.Kumm.",
+        "most_common_name": "Mycena vulgaris (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena vulgaris (Pers.) P.Kumm.": 0
+        }
+    },
+    "42": {
+        "name": "Russula carpini R.Girard & Heinem.",
+        "most_common_name": "Russula carpini R.Girard & Heinem.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula carpini R.Girard & Heinem.": 0
+        }
+    },
+    "43": {
+        "name": "Russula gracillima Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula gracillima Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula gracillima Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "44": {
+        "name": "Russula subrubens (J.E.Lange) Bon",
+        "most_common_name": "Russula subrubens (J.E.Lange) Bon",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula subrubens (J.E.Lange) Bon": 0
+        }
+    },
+    "45": {
+        "name": "Russula melliolens Qu\u00e9l.",
+        "most_common_name": "Russula melliolens Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula melliolens Qu\u00e9l.": 0
+        }
+    },
+    "46": {
+        "name": "Mycena silvae-nigrae Maas Geest. & Schw\u00f6bel",
+        "most_common_name": "Mycena silvae-nigrae Maas Geest. & Schw\u00f6bel",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena silvae-nigrae Maas Geest. & Schw\u00f6bel": 0
+        }
+    },
+    "47": {
+        "name": "Russula curtipes F.H.M\u00f8ller & Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula curtipes F.H.M\u00f8ller & Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula curtipes F.H.M\u00f8ller & Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "48": {
+        "name": "Mycena rosella (Fr.) P.Kumm.",
+        "most_common_name": "Mycena rosella (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena rosella (Fr.) P.Kumm.": 0
+        }
+    },
+    "49": {
+        "name": "Agaricus bohusii Bon",
+        "most_common_name": "Agaricus bohusii Bon",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus bohusii Bon": 0
+        }
+    },
+    "50": {
+        "name": "Mycena erubescens H\u00f6hn.",
+        "most_common_name": "Mycena erubescens H\u00f6hn.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena erubescens H\u00f6hn.": 0
+        }
+    },
+    "51": {
+        "name": "Russula luteotacta Rea",
+        "most_common_name": "Russula luteotacta Rea",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula luteotacta Rea": 0
+        }
+    },
+    "52": {
+        "name": "Russula atrorubens Qu\u00e9l.",
+        "most_common_name": "Russula atrorubens Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula atrorubens Qu\u00e9l.": 0
+        }
+    },
+    "53": {
+        "name": "Russula brunneoviolacea Crawshay",
+        "most_common_name": "Russula brunneoviolacea Crawshay",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula brunneoviolacea Crawshay": 0
+        }
+    },
+    "54": {
+        "name": "Mycena luteovariegata Harder & Laess\u00f8e",
+        "most_common_name": "Mycena luteovariegata Harder & Laess\u00f8e",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena luteovariegata Harder & Laess\u00f8e": 0
+        }
+    },
+    "55": {
+        "name": "Russula viscida Kud\u0159na",
+        "most_common_name": "Russula viscida Kud\u0159na",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula viscida Kud\u0159na": 0
+        }
+    },
+    "56": {
+        "name": "Russula laccata Huijsman",
+        "most_common_name": "Russula laccata Huijsman",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula laccata Huijsman": 0
+        }
+    },
+    "57": {
+        "name": "Russula sororia Fr.",
+        "most_common_name": "Russula sororia Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula sororia Fr.": 0
+        }
+    },
+    "58": {
+        "name": "Agaricus brunneolus (J.E.Lange) Pil\u00e1t",
+        "most_common_name": "Agaricus brunneolus (J.E.Lange) Pil\u00e1t",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus brunneolus (J.E.Lange) Pil\u00e1t": 0
+        }
+    },
+    "59": {
+        "name": "Agaricus cupreobrunneus (Jul.Sch\u00e4ff. & Steer) Pil\u00e1t",
+        "most_common_name": "Agaricus cupreobrunneus (Jul.Sch\u00e4ff. & Steer) Pil\u00e1t",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus cupreobrunneus (Jul.Sch\u00e4ff. & Steer) Pil\u00e1t": 0
+        }
+    },
+    "60": {
+        "name": "Agaricus crocodilinus Murrill",
+        "most_common_name": "Agaricus crocodilinus Murrill",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus crocodilinus Murrill": 0
+        }
+    },
+    "61": {
+        "name": "Amanita franchetii (Boud.) Fayod",
+        "most_common_name": "Amanita franchetii (Boud.) Fayod",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita franchetii (Boud.) Fayod": 0
+        }
+    },
+    "62": {
+        "name": "Russula illota Romagn.",
+        "most_common_name": "Russula illota Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula illota Romagn.": 0
+        }
+    },
+    "63": {
+        "name": "Russula caerulea Fr.",
+        "most_common_name": "Russula caerulea Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula caerulea Fr.": 0
+        }
+    },
+    "64": {
+        "name": "Mycena belliae (Johnston) P.D.Orton",
+        "most_common_name": "Mycena belliae (Johnston) P.D.Orton",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena belliae (Johnston) P.D.Orton": 0
+        }
+    },
+    "65": {
+        "name": "Mycena juniperina Aronsen",
+        "most_common_name": "Mycena juniperina Aronsen",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena juniperina Aronsen": 0
+        }
+    },
+    "66": {
+        "name": "Russula cuprea (Krombh.) J.E.Lange",
+        "most_common_name": "Russula cuprea (Krombh.) J.E.Lange",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula cuprea (Krombh.) J.E.Lange": 0
+        }
+    },
+    "67": {
+        "name": "Russula grisea Fr.",
+        "most_common_name": "Russula grisea Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula grisea Fr.": 0
+        }
+    },
+    "68": {
+        "name": "Infundibulicybe costata (K\u00fchner & Romagn.) Harmaja",
+        "most_common_name": "Infundibulicybe costata (K\u00fchner & Romagn.) Harmaja",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Infundibulicybe costata (K\u00fchner & Romagn.) Harmaja": 0
+        }
+    },
+    "69": {
+        "name": "Mycena clavularis (Batsch) Sacc.",
+        "most_common_name": "Mycena clavularis (Batsch) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena clavularis (Batsch) Sacc.": 0
+        }
+    },
+    "70": {
+        "name": "Amanita vaginata (Bull. ex Fr.) Vittad.",
+        "most_common_name": "Amanita vaginata (Bull. ex Fr.) Vittad.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita vaginata (Bull. ex Fr.) Vittad.": 0
+        }
+    },
+    "71": {
+        "name": "Mycena pterigena (Fr.) P.Kumm.",
+        "most_common_name": "Mycena pterigena (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena pterigena (Fr.) P.Kumm.": 0
+        }
+    },
+    "72": {
+        "name": "Mycena citrinomarginata Gillet",
+        "most_common_name": "Mycena citrinomarginata Gillet",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena citrinomarginata Gillet": 0
+        }
+    },
+    "73": {
+        "name": "Clitocybe agrestis Harmaja",
+        "most_common_name": "Clitocybe agrestis Harmaja",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe agrestis Harmaja": 0
+        }
+    },
+    "74": {
+        "name": "Agaricus litoralis (Wakef. & A.Pearson) Pil\u00e1t",
+        "most_common_name": "Agaricus litoralis (Wakef. & A.Pearson) Pil\u00e1t",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus litoralis (Wakef. & A.Pearson) Pil\u00e1t": 0
+        }
+    },
+    "75": {
+        "name": "Russula faginea Romagn.",
+        "most_common_name": "Russula faginea Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula faginea Romagn.": 0
+        }
+    },
+    "76": {
+        "name": "Mycena stylobates (Pers.) P.Kumm.",
+        "most_common_name": "Mycena stylobates (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena stylobates (Pers.) P.Kumm.": 0
+        }
+    },
+    "77": {
+        "name": "Mycena purpureofusca (Peck) Sacc.",
+        "most_common_name": "Mycena purpureofusca (Peck) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena purpureofusca (Peck) Sacc.": 0
+        }
+    },
+    "78": {
+        "name": "Russula pseudointegra Arnould & Goris",
+        "most_common_name": "Russula pseudointegra Arnould & Goris",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula pseudointegra Arnould & Goris": 0
+        }
+    },
+    "79": {
+        "name": "Clitocybe vibecina (Fr.) Qu\u00e9l.",
+        "most_common_name": "Clitocybe vibecina (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe vibecina (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "80": {
+        "name": "Agaricus subperonatus (J.E.Lange) Singer",
+        "most_common_name": "Agaricus subperonatus (J.E.Lange) Singer",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus subperonatus (J.E.Lange) Singer": 0
+        }
+    },
+    "81": {
+        "name": "Agaricus moelleri Wasser",
+        "most_common_name": "Agaricus moelleri Wasser",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus moelleri Wasser": 0
+        }
+    },
+    "82": {
+        "name": "Russula silvestris (Singer) Reumaux",
+        "most_common_name": "Russula silvestris (Singer) Reumaux",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula silvestris (Singer) Reumaux": 0
+        }
+    },
+    "83": {
+        "name": "Russula veternosa Fr.",
+        "most_common_name": "Russula veternosa Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula veternosa Fr.": 0
+        }
+    },
+    "84": {
+        "name": "Mycena chlorantha (Fr.) P.Kumm.",
+        "most_common_name": "Mycena chlorantha (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena chlorantha (Fr.) P.Kumm.": 0
+        }
+    },
+    "85": {
+        "name": "Russula sanguinea Fr.",
+        "most_common_name": "Russula sanguinea Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula sanguinea Fr.": 0
+        }
+    },
+    "86": {
+        "name": "Russula odorata Romagn.",
+        "most_common_name": "Russula odorata Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula odorata Romagn.": 0
+        }
+    },
+    "87": {
+        "name": "Mycena stipata Maas Geest. & Schw\u00f6bel",
+        "most_common_name": "Mycena stipata Maas Geest. & Schw\u00f6bel",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena stipata Maas Geest. & Schw\u00f6bel": 0
+        }
+    },
+    "88": {
+        "name": "Mycena renati Qu\u00e9l.",
+        "most_common_name": "Mycena renati Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena renati Qu\u00e9l.": 0
+        }
+    },
+    "89": {
+        "name": "Agaricus langei (F.H.M\u00f8ller & Jul.Sch\u00e4ff.) Maire",
+        "most_common_name": "Agaricus langei (F.H.M\u00f8ller & Jul.Sch\u00e4ff.) Maire",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus langei (F.H.M\u00f8ller & Jul.Sch\u00e4ff.) Maire": 0
+        }
+    },
+    "90": {
+        "name": "Russula integra (L.) Fr.",
+        "most_common_name": "Russula integra (L.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula integra (L.) Fr.": 0
+        }
+    },
+    "91": {
+        "name": "Mycena amicta (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena amicta (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena amicta (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "92": {
+        "name": "Mycena cinerella (P.Karst.) P.Karst.",
+        "most_common_name": "Mycena cinerella (P.Karst.) P.Karst.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena cinerella (P.Karst.) P.Karst.": 0
+        }
+    },
+    "93": {
+        "name": "Russula adusta (Pers.) Fr.",
+        "most_common_name": "Russula adusta (Pers.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula adusta (Pers.) Fr.": 0
+        }
+    },
+    "94": {
+        "name": "Amanita submembranacea (Bon) Gr\u00f6ger",
+        "most_common_name": "Amanita submembranacea (Bon) Gr\u00f6ger",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita submembranacea (Bon) Gr\u00f6ger": 0
+        }
+    },
+    "95": {
+        "name": "Russula decolorans (Fr.) Fr.",
+        "most_common_name": "Russula decolorans (Fr.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula decolorans (Fr.) Fr.": 0
+        }
+    },
+    "96": {
+        "name": "Boletus pinophilus Pil\u00e1t & Dermek",
+        "most_common_name": "Boletus pinophilus Pil\u00e1t & Dermek",
+        "class": "Agaricomycetes",
+        "order": "Boletales",
+        "family": "Boletaceae",
+        "genus": "Boletus",
+        "alternates": {
+            "Boletus pinophilus Pil\u00e1t & Dermek": 0
+        }
+    },
+    "97": {
+        "name": "Russula delica Fr.",
+        "most_common_name": "Russula delica Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula delica Fr.": 0
+        }
+    },
+    "98": {
+        "name": "Russula puellaris Fr.",
+        "most_common_name": "Russula puellaris Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula puellaris Fr.": 0
+        }
+    },
+    "99": {
+        "name": "Russula graveolens Romell",
+        "most_common_name": "Russula graveolens Romell",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula graveolens Romell": 0
+        }
+    },
+    "100": {
+        "name": "Mycena flavescens Velen.",
+        "most_common_name": "Mycena flavescens Velen.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena flavescens Velen.": 0
+        }
+    },
+    "101": {
+        "name": "Agaricus dulcidulus Schulzer",
+        "most_common_name": "Agaricus dulcidulus Schulzer",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus dulcidulus Schulzer": 0
+        }
+    },
+    "102": {
+        "name": "Russula romellii Maire",
+        "most_common_name": "Russula romellii Maire",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula romellii Maire": 0
+        }
+    },
+    "103": {
+        "name": "Russula ionochlora Romagn.",
+        "most_common_name": "Russula ionochlora Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula ionochlora Romagn.": 0
+        }
+    },
+    "104": {
+        "name": "Amanita crocea (Qu\u00e9l.) Singer",
+        "most_common_name": "Amanita crocea (Qu\u00e9l.) Singer",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita crocea (Qu\u00e9l.) Singer": 0
+        }
+    },
+    "105": {
+        "name": "Amanita ceciliae (Berk. & Broome) Bas",
+        "most_common_name": "Amanita ceciliae (Berk. & Broome) Bas",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita ceciliae (Berk. & Broome) Bas": 0
+        }
+    },
+    "106": {
+        "name": "Russula versicolor Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula versicolor Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula versicolor Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "107": {
+        "name": "Russula nauseosa (Pers.) Fr.",
+        "most_common_name": "Russula nauseosa (Pers.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula nauseosa (Pers.) Fr.": 0
+        }
+    },
+    "108": {
+        "name": "Mycena zephirus (Fr.) P.Kumm.",
+        "most_common_name": "Mycena zephirus (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena zephirus (Fr.) P.Kumm.": 0
+        }
+    },
+    "109": {
+        "name": "Russula velutipes Velen.",
+        "most_common_name": "Russula velutipes Velen.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula velutipes Velen.": 0
+        }
+    },
+    "110": {
+        "name": "Russula sardonia Fr.",
+        "most_common_name": "Russula sardonia Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula sardonia Fr.": 0
+        }
+    },
+    "111": {
+        "name": "Mycena filopes (Bull.) P.Kumm.",
+        "most_common_name": "Mycena filopes (Bull.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena filopes (Bull.) P.Kumm.": 0
+        }
+    },
+    "112": {
+        "name": "Mycena abramsii (Murrill) Murrill",
+        "most_common_name": "Mycena abramsii (Murrill) Murrill",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena abramsii (Murrill) Murrill": 0
+        }
+    },
+    "113": {
+        "name": "Agaricus bernardii (Qu\u00e9l.) Sacc.",
+        "most_common_name": "Agaricus bernardii (Qu\u00e9l.) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus bernardii (Qu\u00e9l.) Sacc.": 0
+        }
+    },
+    "114": {
+        "name": "Russula nitida (Pers.) Fr.",
+        "most_common_name": "Russula nitida (Pers.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula nitida (Pers.) Fr.": 0
+        }
+    },
+    "115": {
+        "name": "Mycena rubromarginata (Fr.) P.Kumm.",
+        "most_common_name": "Mycena rubromarginata (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena rubromarginata (Fr.) P.Kumm.": 0
+        }
+    },
+    "116": {
+        "name": "Russula densifolia Secr. ex Gillet",
+        "most_common_name": "Russula densifolia Secr. ex Gillet",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula densifolia Secr. ex Gillet": 0
+        }
+    },
+    "117": {
+        "name": "Mycena meliigena (Berk. & Cooke) Sacc.",
+        "most_common_name": "Mycena meliigena (Berk. & Cooke) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena meliigena (Berk. & Cooke) Sacc.": 0
+        }
+    },
+    "118": {
+        "name": "Russula amoenolens Romagn.",
+        "most_common_name": "Russula amoenolens Romagn.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula amoenolens Romagn.": 0
+        }
+    },
+    "119": {
+        "name": "Russula parazurea Jul.Sch\u00e4ff.",
+        "most_common_name": "Russula parazurea Jul.Sch\u00e4ff.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula parazurea Jul.Sch\u00e4ff.": 0
+        }
+    },
+    "120": {
+        "name": "Russula betularum Hora",
+        "most_common_name": "Russula betularum Hora",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula betularum Hora": 0
+        }
+    },
+    "121": {
+        "name": "Russula emetica (Schaeff.) Pers.",
+        "most_common_name": "Russula emetica (Schaeff.) Pers.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula emetica (Schaeff.) Pers.": 0
+        }
+    },
+    "122": {
+        "name": "Agaricus sylvaticus Schaeff.",
+        "most_common_name": "Agaricus sylvaticus Schaeff.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus sylvaticus Schaeff.": 0
+        }
+    },
+    "123": {
+        "name": "Agaricus essettei Bon",
+        "most_common_name": "Agaricus essettei Bon",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus essettei Bon": 0
+        }
+    },
+    "124": {
+        "name": "Russula heterophylla (Fr.) Fr.",
+        "most_common_name": "Russula heterophylla (Fr.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula heterophylla (Fr.) Fr.": 0
+        }
+    },
+    "125": {
+        "name": "Mycena acicula (Schaeff.) P.Kumm.",
+        "most_common_name": "Mycena acicula (Schaeff.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena acicula (Schaeff.) P.Kumm.": 0
+        }
+    },
+    "126": {
+        "name": "Russula cessans A.Pearson",
+        "most_common_name": "Russula cessans A.Pearson",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula cessans A.Pearson": 0
+        }
+    },
+    "127": {
+        "name": "Russula velenovskyi Melzer & Zv\u00e1ra",
+        "most_common_name": "Russula velenovskyi Melzer & Zv\u00e1ra",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula velenovskyi Melzer & Zv\u00e1ra": 0
+        }
+    },
+    "128": {
+        "name": "Clitocybe phyllophila (Pers.) P.Kumm.",
+        "most_common_name": "Clitocybe phyllophila (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe phyllophila (Pers.) P.Kumm.": 0
+        }
+    },
+    "129": {
+        "name": "Russula grata Britzelm.",
+        "most_common_name": "Russula grata Britzelm.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula grata Britzelm.": 0
+        }
+    },
+    "130": {
+        "name": "Russula risigallina (Batsch) Sacc.",
+        "most_common_name": "Russula risigallina (Batsch) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula risigallina (Batsch) Sacc.": 0
+        }
+    },
+    "131": {
+        "name": "Mycena olivaceomarginata (Massee) Massee",
+        "most_common_name": "Mycena olivaceomarginata (Massee) Massee",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena olivaceomarginata (Massee) Massee": 0
+        }
+    },
+    "132": {
+        "name": "Clitocybe rivulosa (Pers.) P.Kumm.",
+        "most_common_name": "Clitocybe rivulosa (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe rivulosa (Pers.) P.Kumm.": 0
+        }
+    },
+    "133": {
+        "name": "Clitocybe odora (Bull.) P.Kumm.",
+        "most_common_name": "Clitocybe odora (Bull.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe odora (Bull.) P.Kumm.": 0
+        }
+    },
+    "134": {
+        "name": "Amanita gemmata (Fr.) Bertill.",
+        "most_common_name": "Amanita gemmata (Fr.) Bertill.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita gemmata (Fr.) Bertill.": 0
+        }
+    },
+    "135": {
+        "name": "Russula fellea (Fr.) Fr.",
+        "most_common_name": "Russula fellea (Fr.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula fellea (Fr.) Fr.": 0
+        }
+    },
+    "136": {
+        "name": "Russula aeruginea Lindblad ex Fr.",
+        "most_common_name": "Russula aeruginea Lindblad ex Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula aeruginea Lindblad ex Fr.": 0
+        }
+    },
+    "137": {
+        "name": "Mycena tenerrima (Berk.) Sacc.",
+        "most_common_name": "Mycena tenerrima (Berk.) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena tenerrima (Berk.) Sacc.": 0
+        }
+    },
+    "138": {
+        "name": "Russula virescens (Schaeff.) Fr.",
+        "most_common_name": "Russula virescens (Schaeff.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula virescens (Schaeff.) Fr.": 0
+        }
+    },
+    "139": {
+        "name": "Mycena arcangeliana Bres.",
+        "most_common_name": "Mycena arcangeliana Bres.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena arcangeliana Bres.": 0
+        }
+    },
+    "140": {
+        "name": "Russula chloroides (Krombh.) Bres.",
+        "most_common_name": "Russula chloroides (Krombh.) Bres.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula chloroides (Krombh.) Bres.": 0
+        }
+    },
+    "141": {
+        "name": "Russula mairei Singer",
+        "most_common_name": "Russula mairei Singer",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula mairei Singer": 0
+        }
+    },
+    "142": {
+        "name": "Mycena metata (Secr. ex Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena metata (Secr. ex Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena metata (Secr. ex Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "143": {
+        "name": "Russula fragilis Fr.",
+        "most_common_name": "Russula fragilis Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula fragilis Fr.": 0
+        }
+    },
+    "144": {
+        "name": "Mycena aetites (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena aetites (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena aetites (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "145": {
+        "name": "Clitocybe nebularis (Batsch) P.Kumm.",
+        "most_common_name": "Clitocybe nebularis (Batsch) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe nebularis (Batsch) P.Kumm.": 0
+        }
+    },
+    "146": {
+        "name": "Russula claroflava Grove",
+        "most_common_name": "Russula claroflava Grove",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula claroflava Grove": 0
+        }
+    },
+    "147": {
+        "name": "Agaricus sylvicola (Vittad.) Peck",
+        "most_common_name": "Agaricus sylvicola (Vittad.) Peck",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus sylvicola (Vittad.) Peck": 0
+        }
+    },
+    "148": {
+        "name": "Clitocybe metachroa (Fr.) P.Kumm.",
+        "most_common_name": "Clitocybe metachroa (Fr.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe metachroa (Fr.) P.Kumm.": 0
+        }
+    },
+    "149": {
+        "name": "Russula undulata Velen.",
+        "most_common_name": "Russula undulata Velen.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula undulata Velen.": 0
+        }
+    },
+    "150": {
+        "name": "Russula violeipes Qu\u00e9l.",
+        "most_common_name": "Russula violeipes Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula violeipes Qu\u00e9l.": 0
+        }
+    },
+    "151": {
+        "name": "Russula foetens (Pers.) Fr.",
+        "most_common_name": "Russula foetens (Pers.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula foetens (Pers.) Fr.": 0
+        }
+    },
+    "152": {
+        "name": "Russula solaris Ferd. & Winge",
+        "most_common_name": "Russula solaris Ferd. & Winge",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula solaris Ferd. & Winge": 0
+        }
+    },
+    "153": {
+        "name": "Russula queletii Fr.",
+        "most_common_name": "Russula queletii Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula queletii Fr.": 0
+        }
+    },
+    "154": {
+        "name": "Mycena leptocephala (Pers.) Gillet",
+        "most_common_name": "Mycena leptocephala (Pers.) Gillet",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena leptocephala (Pers.) Gillet": 0
+        }
+    },
+    "155": {
+        "name": "Mycena inclinata (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena inclinata (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena inclinata (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "156": {
+        "name": "Russula olivacea (Schaeff.) Fr.",
+        "most_common_name": "Russula olivacea (Schaeff.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula olivacea (Schaeff.) Fr.": 0
+        }
+    },
+    "157": {
+        "name": "Russula depallens (Pers.) Fr.",
+        "most_common_name": "Russula depallens (Pers.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula depallens (Pers.) Fr.": 0
+        }
+    },
+    "158": {
+        "name": "Mycena sanguinolenta (Alb. & Schwein.) P.Kumm.",
+        "most_common_name": "Mycena sanguinolenta (Alb. & Schwein.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena sanguinolenta (Alb. & Schwein.) P.Kumm.": 0
+        }
+    },
+    "159": {
+        "name": "Mycena pseudocorticola K\u00fchner",
+        "most_common_name": "Mycena pseudocorticola K\u00fchner",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena pseudocorticola K\u00fchner": 0
+        }
+    },
+    "160": {
+        "name": "Mycena polygramma (Bull.) Gray",
+        "most_common_name": "Mycena polygramma (Bull.) Gray",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena polygramma (Bull.) Gray": 0
+        }
+    },
+    "161": {
+        "name": "Russula recondita Melera & Ostellari",
+        "most_common_name": "Russula recondita Melera & Ostellari",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula recondita Melera & Ostellari": 0
+        }
+    },
+    "162": {
+        "name": "Amanita virosa Bertill.",
+        "most_common_name": "Amanita virosa Bertill.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita virosa Bertill.": 0
+        }
+    },
+    "163": {
+        "name": "Russula lepida Fr.",
+        "most_common_name": "Russula lepida Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula lepida Fr.": 0
+        }
+    },
+    "164": {
+        "name": "Amanita porphyria Alb. & Schwein.",
+        "most_common_name": "Amanita porphyria Alb. & Schwein.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita porphyria Alb. & Schwein.": 0
+        }
+    },
+    "165": {
+        "name": "Russula xerampelina (Schaeff.) Fr.",
+        "most_common_name": "Russula xerampelina (Schaeff.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula xerampelina (Schaeff.) Fr.": 0
+        }
+    },
+    "166": {
+        "name": "Mycena galopus (Pers.) P.Kumm.",
+        "most_common_name": "Mycena galopus (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena galopus (Pers.) P.Kumm.": 0
+        }
+    },
+    "167": {
+        "name": "Agaricus bitorquis (Qu\u00e9l.) Sacc.",
+        "most_common_name": "Agaricus bitorquis (Qu\u00e9l.) Sacc.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus bitorquis (Qu\u00e9l.) Sacc.": 0
+        }
+    },
+    "168": {
+        "name": "Russula paludosa Britzelm.",
+        "most_common_name": "Russula paludosa Britzelm.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula paludosa Britzelm.": 0
+        }
+    },
+    "169": {
+        "name": "Mycena pelianthina (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena pelianthina (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena pelianthina (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "170": {
+        "name": "Mycena vitilis (Fr.) Qu\u00e9l.",
+        "most_common_name": "Mycena vitilis (Fr.) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena vitilis (Fr.) Qu\u00e9l.": 0
+        }
+    },
+    "171": {
+        "name": "Mycena tintinnabulum (Paulet) Qu\u00e9l.",
+        "most_common_name": "Mycena tintinnabulum (Paulet) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena tintinnabulum (Paulet) Qu\u00e9l.": 0
+        }
+    },
+    "172": {
+        "name": "Amanita citrina Pers.",
+        "most_common_name": "Amanita citrina Pers.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita citrina Pers.": 0
+        }
+    },
+    "173": {
+        "name": "Mycena epipterygia (Scop.) Gray",
+        "most_common_name": "Mycena epipterygia (Scop.) Gray",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena epipterygia (Scop.) Gray": 0
+        }
+    },
+    "174": {
+        "name": "Boletus reticulatus Schaeff.",
+        "most_common_name": "Boletus reticulatus Schaeff.",
+        "class": "Agaricomycetes",
+        "order": "Boletales",
+        "family": "Boletaceae",
+        "genus": "Boletus",
+        "alternates": {
+            "Boletus reticulatus Schaeff.": 0
+        }
+    },
+    "175": {
+        "name": "Agaricus impudicus (Rea) Pil\u00e1t",
+        "most_common_name": "Agaricus impudicus (Rea) Pil\u00e1t",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus impudicus (Rea) Pil\u00e1t": 0
+        }
+    },
+    "176": {
+        "name": "Russula cyanoxantha (Schaeff.) Fr.",
+        "most_common_name": "Russula cyanoxantha (Schaeff.) Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula cyanoxantha (Schaeff.) Fr.": 0
+        }
+    },
+    "177": {
+        "name": "Russula vesca Fr.",
+        "most_common_name": "Russula vesca Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula vesca Fr.": 0
+        }
+    },
+    "178": {
+        "name": "Amanita phalloides (Vaill. ex Fr.) Link",
+        "most_common_name": "Amanita phalloides (Vaill. ex Fr.) Link",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita phalloides (Vaill. ex Fr.) Link": 0
+        }
+    },
+    "179": {
+        "name": "Agaricus arvensis Schaeff.",
+        "most_common_name": "Agaricus arvensis Schaeff.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus arvensis Schaeff.": 0
+        }
+    },
+    "180": {
+        "name": "Amanita pantherina (DC.) Krombh.",
+        "most_common_name": "Amanita pantherina (DC.) Krombh.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita pantherina (DC.) Krombh.": 0
+        }
+    },
+    "181": {
+        "name": "Agaricus augustus Fr.",
+        "most_common_name": "Agaricus augustus Fr.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus augustus Fr.": 0
+        }
+    },
+    "182": {
+        "name": "Agaricus campestris L.",
+        "most_common_name": "Agaricus campestris L.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus campestris L.": 0
+        }
+    },
+    "183": {
+        "name": "Clitocybe fragrans Sowerby",
+        "most_common_name": "Clitocybe fragrans Sowerby",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe fragrans Sowerby": 0
+        }
+    },
+    "184": {
+        "name": "Mycena haematopus (Pers.) P.Kumm.",
+        "most_common_name": "Mycena haematopus (Pers.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena haematopus (Pers.) P.Kumm.": 0
+        }
+    },
+    "185": {
+        "name": "Mycena crocata (Schrad.) P.Kumm.",
+        "most_common_name": "Mycena crocata (Schrad.) P.Kumm.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena crocata (Schrad.) P.Kumm.": 0
+        }
+    },
+    "186": {
+        "name": "Agaricus xanthodermus Genev.",
+        "most_common_name": "Agaricus xanthodermus Genev.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Agaricaceae",
+        "genus": "Agaricus",
+        "alternates": {
+            "Agaricus xanthodermus Genev.": 0
+        }
+    },
+    "187": {
+        "name": "Russula nigricans Fr.",
+        "most_common_name": "Russula nigricans Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula nigricans Fr.": 0
+        }
+    },
+    "188": {
+        "name": "Mycena rosea Gramberg",
+        "most_common_name": "Mycena rosea Gramberg",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena rosea Gramberg": 0
+        }
+    },
+    "189": {
+        "name": "Russula ochroleuca Fr.",
+        "most_common_name": "Russula ochroleuca Fr.",
+        "class": "Agaricomycetes",
+        "order": "Russulales",
+        "family": "Russulaceae",
+        "genus": "Russula",
+        "alternates": {
+            "Russula ochroleuca Fr.": 0
+        }
+    },
+    "190": {
+        "name": "Amanita fulva Fr.",
+        "most_common_name": "Amanita fulva Fr.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita fulva Fr.": 0
+        }
+    },
+    "191": {
+        "name": "Amanita rubescens (Pers.) Gray",
+        "most_common_name": "Amanita rubescens (Pers.) Gray",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita rubescens (Pers.) Gray": 0
+        }
+    },
+    "192": {
+        "name": "Clitocybe nebularis (Batsch) Qu\u00e9l.",
+        "most_common_name": "Clitocybe nebularis (Batsch) Qu\u00e9l.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Tricholomataceae",
+        "genus": "Clitocybe",
+        "alternates": {
+            "Clitocybe nebularis (Batsch) Qu\u00e9l.": 0
+        }
+    },
+    "193": {
+        "name": "Mycena galericulata (Scop.) Gray",
+        "most_common_name": "Mycena galericulata (Scop.) Gray",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Mycenaceae",
+        "genus": "Mycena",
+        "alternates": {
+            "Mycena galericulata (Scop.) Gray": 0
+        }
+    },
+    "194": {
+        "name": "Amanita muscaria (L.) Lam.",
+        "most_common_name": "Amanita muscaria (L.) Lam.",
+        "class": "Agaricomycetes",
+        "order": "Agaricales",
+        "family": "Amanitaceae",
+        "genus": "Amanita",
+        "alternates": {
+            "Amanita muscaria (L.) Lam.": 0
+        }
+    },
+    "195": {
+        "name": "Boletus edulis Bull.",
+        "most_common_name": "Boletus edulis Bull.",
+        "class": "Agaricomycetes",
+        "order": "Boletales",
+        "family": "Boletaceae",
+        "genus": "Boletus",
+        "alternates": {
+            "Boletus edulis Bull.": 0
+        }
+    }
+}

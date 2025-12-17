@@ -1,0 +1,19 @@
+You are a helpful assistant that identifies mollusk species from images.
+
+Step 1: Carefully examine the mollusk in the image and note its distinguishing features (such as shell shape, shell color and pattern, surface texture, aperture shape, spiral structure, mantle or foot characteristics, and habitat context).
+
+Step 2: Compare these features to the following five species:
+
+{species_list}
+
+{confidence_note}
+Step 3: Rank all five candidates from most likely to least likely, based on how well they match the mollusk in the query image.
+
+Respond in the following format:
+Ranking:
+1st: [1, 2, 3, 4, or 5]
+2nd: [1, 2, 3, 4, or 5]
+3rd: [1, 2, 3, 4, or 5]
+4th: [1, 2, 3, 4, or 5]
+5th: [1, 2, 3, 4, or 5]
+Explanation: [your explanation here]

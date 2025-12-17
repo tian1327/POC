@@ -1,0 +1,254 @@
+{
+    "0": {
+        "name": "Ambrosia",
+        "folder_name": "Ambrosia",
+        "most_common_name": "Ragweed or Bursage",
+        "alternates": {
+            "Ambrosia": 0,
+            "Ragweed or Bursage": 0
+        },
+        "class": "Eudicots",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Ambrosia"
+    },
+    "1": {
+        "name": "Ammi majus",
+        "folder_name": "Ammi",
+        "most_common_name": "Ammi majus",
+        "alternates": {
+            "Ammi majus": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Apiales",
+        "family": "Apiaceae",
+        "genus": "Ammi"
+    },
+    "2": {
+        "name": "Bromus rigidus",
+        "folder_name": "Bromus",
+        "most_common_name": "Bromus rigidus",
+        "alternates": {
+            "Bromus rigidus": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Cyperales",
+        "family": "Poaceae",
+        "genus": "Bromus"
+    },
+    "3": {
+        "name": "Bunias orientalis",
+        "folder_name": "Bunias",
+        "most_common_name": "Bunias orientalis",
+        "alternates": {
+            "Bunias orientalis": 0
+        },
+        "class": "Eudicots",
+        "order": "Brassicales",
+        "family": "Brassicaceae",
+        "genus": "Bunias"
+    },
+    "4": {
+        "name": "Caucalis latifolia",
+        "folder_name": "Caucalis",
+        "most_common_name": "Caucalis latifolia",
+        "alternates": {
+            "Caucalis latifolia": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Apiales",
+        "family": "Apiaceae",
+        "genus": "Caucalis"
+    },
+    "5": {
+        "name": "Cenchrus spp.",
+        "folder_name": "Cenchrus",
+        "most_common_name": "Cenchrus spp.",
+        "alternates": {
+            "Cenchrus spp.": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Poales",
+        "family": "Poaceae",
+        "genus": "Cenchrus"
+    },
+    "6": {
+        "name": "Crotalaria spectabilis",
+        "folder_name": "Crotalaria",
+        "most_common_name": "Crotalaria spectabilis",
+        "alternates": {
+            "Crotalaria spectabilis": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Crotalaria"
+    },
+    "7": {
+        "name": "Cuscuta spp.",
+        "folder_name": "Cuscuta",
+        "most_common_name": "Cuscuta spp.",
+        "alternates": {
+            "Cuscuta spp.": 0
+        },
+        "class": "Liliopsida",
+        "order": "Solanales",
+        "family": "Convolvulaceae",
+        "genus": "Cuscuta"
+    },
+    "8": {
+        "name": "Euphorbia dentata",
+        "folder_name": "Euphorbia",
+        "most_common_name": "Euphorbia dentata",
+        "alternates": {
+            "Euphorbia dentata": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Malpighiales",
+        "family": "Euphorbiaceae",
+        "genus": "Euphorbia"
+    },
+    "9": {
+        "name": "Flaveria bidentis",
+        "folder_name": "Flaveria",
+        "most_common_name": "Coastal plain yellowtops",
+        "alternates": {
+            "Flaveria bidentis": 0,
+            "Coastal plain yellowtops": 0
+        },
+        "class": "Eudicots",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Flaveria"
+    },
+    "10": {
+        "name": "Ipomoea pandurata",
+        "folder_name": "Ipomoea",
+        "most_common_name": "Ipomoea pandurata (Wild Potato Vine)",
+        "alternates": {
+            "Ipomoea pandurata": 0,
+            "Ipomoea pandurata (Wild Potato Vine)": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Solanales",
+        "family": "Convolvulaceae",
+        "genus": "Ipomoea"
+    },
+    "11": {
+        "name": "Knautia arvensis",
+        "folder_name": "Knautia",
+        "most_common_name": "Field scabious",
+        "alternates": {
+            "Knautia arvensis": 0,
+            "Field scabious": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Dipsacales",
+        "family": "Caprifoliaceae",
+        "genus": "Knautia"
+    },
+    "12": {
+        "name": "Lolium temulentum",
+        "folder_name": "Lolium",
+        "most_common_name": "Lolium temulentum (Darnel)",
+        "alternates": {
+            "Lolium temulentum": 0,
+            "Lolium temulentum (Darnel)": 0
+        },
+        "class": "Liliopsida",
+        "order": "Poales",
+        "family": "Poaceae",
+        "genus": "Lolium"
+    },
+    "13": {
+        "name": "Mikania micrantha",
+        "folder_name": "Mikania",
+        "most_common_name": "Mikania micrantha (Mile-a-minute vine)",
+        "alternates": {
+            "Mikania micrantha": 0,
+            "Mikania micrantha (Mile-a-minute vine)": 0
+        },
+        "class": "Liliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Mikania"
+    },
+    "14": {
+        "name": "Orobanche spp.",
+        "folder_name": "Orobanche",
+        "most_common_name": "Orobanche spp. (Broomrape)",
+        "alternates": {
+            "Orobanche spp.": 0,
+            "Orobanche spp. (Broomrape)": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Orobanchaceae",
+        "genus": "Orobanche"
+    },
+    "15": {
+        "name": "Oxalis latifolia",
+        "folder_name": "Oxalis",
+        "most_common_name": "Oxalis latifolia (Broadleaf woodsorrel)",
+        "alternates": {
+            "Oxalis latifolia": 0,
+            "Oxalis latifolia (Broadleaf woodsorrel)": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Oxalidales",
+        "family": "Oxalidaceae",
+        "genus": "Oxalis"
+    },
+    "16": {
+        "name": "Senecio jacobaea",
+        "folder_name": "Senecio",
+        "most_common_name": "Senecio jacobaea (Ragwort)",
+        "alternates": {
+            "Senecio jacobaea": 0,
+            "Senecio jacobaea (Ragwort)": 0
+        },
+        "class": "Liliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Senecio"
+    },
+    "17": {
+        "name": "Striga spp.",
+        "folder_name": "Striga",
+        "most_common_name": "Witchweed",
+        "alternates": {
+            "Striga spp.": 0,
+            "Witchweed": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Lamiales",
+        "family": "Orobanchaceae",
+        "genus": "Striga"
+    },
+    "18": {
+        "name": "Tribulus alatus",
+        "folder_name": "Tribulus",
+        "most_common_name": "Puncture Vine",
+        "alternates": {
+            "Tribulus alatus": 0,
+            "Puncture Vine": 0
+        },
+        "class": "Liliopsida",
+        "order": "Zygophyllales",
+        "family": "Zygophyllaceae",
+        "genus": "Tribulus"
+    },
+    "19": {
+        "name": "Xanthium spp.",
+        "folder_name": "Xanthium",
+        "most_common_name": "Cocklebur",
+        "alternates": {
+            "Xanthium spp.": 0,
+            "Cocklebur": 0
+        },
+        "class": "Magnoliopsida",
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Xanthium"
+    }
+}

@@ -1,0 +1,1000 @@
+{
+    "0": {
+        "name": "Acanthocinus carinulatus",
+        "folder_name": "Acanthocinus",
+        "most_common_name": "Acanthocinus carinulatus",
+        "alternates": {
+            "Acanthocinus carinulatus": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Acanthocinus"
+    },
+    "1": {
+        "name": "Acanthoscelides obtectus",
+        "folder_name": "Acanthoscelides",
+        "most_common_name": "Bean weevil",
+        "alternates": {
+            "Acanthoscelides obtectus": 0,
+            "Bean weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "genus": "Acanthocinus"
+    },
+    "2": {
+        "name": "Acleris variana",
+        "folder_name": "Acleris",
+        "most_common_name": "eastern blackheaded budworm",
+        "alternates": {
+            "Acleris variana": 0,
+            "eastern blackheaded budworm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Acleris"
+    },
+    "3": {
+        "name": "Agrilus spp.",
+        "folder_name": "Agrilus",
+        "most_common_name": "Agrilus spp.",
+        "alternates": {
+            "Agrilus spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Buprestidae",
+        "genus": "Agrilus"
+    },
+    "4": {
+        "name": "Aleurodicus dispersus",
+        "folder_name": "Aleurodicus",
+        "most_common_name": "Aleurodicus dispersus",
+        "alternates": {
+            "Aleurodicus dispersus": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Aleyrodidae",
+        "genus": "Aleurodicus"
+    },
+    "5": {
+        "name": "Anastrepha",
+        "folder_name": "Anastrepha",
+        "most_common_name": "Anastrepha",
+        "alternates": {
+            "Anastrepha": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "genus": "Anastrepha"
+    },
+    "6": {
+        "name": "Aonidiella comperei",
+        "folder_name": "Aonidiella",
+        "most_common_name": "false yellow scale",
+        "alternates": {
+            "Aonidiella comperei": 0,
+            "false yellow scale": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Diaspididae",
+        "genus": "Aonidiella"
+    },
+    "7": {
+        "name": "Apate monachus",
+        "folder_name": "Apate",
+        "most_common_name": "Apate monachus",
+        "alternates": {
+            "Apate monachus": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Bostrichidae",
+        "genus": "Apate"
+    },
+    "8": {
+        "name": "Arhopalus syriacus",
+        "folder_name": "Arhopalus",
+        "most_common_name": "Arhopalus syriacus",
+        "alternates": {
+            "Arhopalus syriacus": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Arhopalus"
+    },
+    "9": {
+        "name": "Bactrocera",
+        "folder_name": "Bactrocera",
+        "most_common_name": "Bactrocera",
+        "alternates": {
+            "Bactrocera": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "genus": "Bactrocera"
+    },
+    "10": {
+        "name": "Batocera spp.",
+        "folder_name": "Batocera",
+        "most_common_name": "Batocera spp.",
+        "alternates": {
+            "Batocera spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Batocera"
+    },
+    "11": {
+        "name": "Bruchus spp.",
+        "folder_name": "Bruchus",
+        "most_common_name": "Bruchus spp.",
+        "alternates": {
+            "Bruchus spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "genus": "Bruchus"
+    },
+    "12": {
+        "name": "Cacoecimorpha pronubana",
+        "folder_name": "Cacoecimorpha",
+        "most_common_name": "Cacoecimorpha pronubana",
+        "alternates": {
+            "Cacoecimorpha pronubana": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Cacoecimorpha"
+    },
+    "13": {
+        "name": "Callosobruchus spp.",
+        "folder_name": "Callosobruchus",
+        "most_common_name": "Cowpea weevil or bean weevil",
+        "alternates": {
+            "Callosobruchus spp.": 0,
+            "Cowpea weevil or bean weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "genus": "Callosobruchus"
+    },
+    "14": {
+        "name": "Ceratitis",
+        "folder_name": "Ceratitis",
+        "most_common_name": "Mediterranean fruit fly",
+        "alternates": {
+            "Ceratitis": 0,
+            "Mediterranean fruit fly": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "genus": "Ceratitis"
+    },
+    "15": {
+        "name": "Ceroplastes rusci",
+        "folder_name": "Ceroplastes",
+        "most_common_name": "Fig wax scale",
+        "alternates": {
+            "Ceroplastes rusci": 0,
+            "Fig wax scale": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Coccidae",
+        "genus": "Ceroplastes"
+    },
+    "16": {
+        "name": "Chionaspis pinifoliae",
+        "folder_name": "Chionaspis",
+        "most_common_name": "Pine needle scale",
+        "alternates": {
+            "Chionaspis pinifoliae": 0,
+            "Pine needle scale": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Diaspididae",
+        "genus": "Chionaspis"
+    },
+    "17": {
+        "name": "Choristoneura fumiferana",
+        "folder_name": "Choristoneura",
+        "most_common_name": "Eastern spruce budworm",
+        "alternates": {
+            "Choristoneura fumiferana": 0,
+            "Eastern spruce budworm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Choristoneura"
+    },
+    "18": {
+        "name": "Conotrachelus",
+        "folder_name": "Conotrachelus",
+        "most_common_name": "True weevils",
+        "alternates": {
+            "Conotrachelus": 0,
+            "True weevils": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Conotrachelus"
+    },
+    "19": {
+        "name": "Contarinia sorghicola",
+        "folder_name": "Contarinia",
+        "most_common_name": "Sorghum midge",
+        "alternates": {
+            "Contarinia sorghicola": 0,
+            "Sorghum midge": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Cecidomyiidae",
+        "genus": "Contarinia"
+    },
+    "20": {
+        "name": "Coptotermes spp.",
+        "folder_name": "Coptotermes",
+        "most_common_name": "Termites (some species)",
+        "alternates": {
+            "Coptotermes spp.": 0,
+            "Termites (some species)": 0
+        },
+        "class": "Insecta",
+        "order": "Blattodea",
+        "family": "Rhinotermitidae",
+        "genus": "Coptotermes"
+    },
+    "21": {
+        "name": "Cryptophlebia leucotreta",
+        "folder_name": "Cryptophlebia",
+        "most_common_name": "False codling moth (FCM)",
+        "alternates": {
+            "Cryptophlebia leucotreta": 0,
+            "False codling moth (FCM)": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Cryptophlebia"
+    },
+    "22": {
+        "name": "Cryptorrhynchus lapathi",
+        "folder_name": "Cryptorrhynchus",
+        "most_common_name": "Poplar and willow borer, osier weevil, willow weevil",
+        "alternates": {
+            "Cryptorrhynchus lapathi": 0,
+            "Poplar and willow borer, osier weevil, willow weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Cryptorhynchus"
+    },
+    "23": {
+        "name": "Ctenopseustis obliquana",
+        "folder_name": "Ctenopseustis",
+        "most_common_name": "Brownheaded leafroller, blackheaded leafroller",
+        "alternates": {
+            "Ctenopseustis obliquana": 0,
+            "Brownheaded leafroller, blackheaded leafroller": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Ctenopseustis"
+    },
+    "24": {
+        "name": "Curculio elephas",
+        "folder_name": "Curculio",
+        "most_common_name": "Chestnut weevil, European chestnut weevil, chestnut beetle",
+        "alternates": {
+            "Curculio elephas": 0,
+            "Chestnut weevil, European chestnut weevil, chestnut beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Curculio"
+    },
+    "25": {
+        "name": "Deudorix isocrates",
+        "folder_name": "Deudorix",
+        "most_common_name": "Common guava blue",
+        "alternates": {
+            "Deudorix isocrates": 0,
+            "Common guava blue": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Lycaenidae",
+        "genus": "Deudorix"
+    },
+    "26": {
+        "name": "Diabrotica",
+        "folder_name": "Diabrotica",
+        "most_common_name": "Cucumber beetle or corn rootworm",
+        "alternates": {
+            "Diabrotica": 0,
+            "Cucumber beetle or corn rootworm": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "genus": "Diabrotica"
+    },
+    "27": {
+        "name": "Diaphania nitidalis",
+        "folder_name": "Diaphania",
+        "most_common_name": "Pickleworm",
+        "alternates": {
+            "Diaphania nitidalis": 0,
+            "Pickleworm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Crambidae",
+        "genus": "Diaphania"
+    },
+    "28": {
+        "name": "Diaprepes abbreviata",
+        "folder_name": "Diaprepes",
+        "most_common_name": "Diaprepes root weevil or citrus weevil",
+        "alternates": {
+            "Diaprepes abbreviata": 0,
+            "Diaprepes root weevil or citrus weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Diaprepes"
+    },
+    "29": {
+        "name": "Diatraea saccharalis",
+        "folder_name": "Diatraea",
+        "most_common_name": "Sugarcane borer or sugarcane stalk borer",
+        "alternates": {
+            "Diatraea saccharalis": 0,
+            "Sugarcane borer or sugarcane stalk borer": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Crambidae",
+        "genus": "Diatraea"
+    },
+    "30": {
+        "name": "Dryocoetes confusus",
+        "folder_name": "Dryocoetes",
+        "most_common_name": "Western balsam bark beetle",
+        "alternates": {
+            "Dryocoetes confusus": 0,
+            "Western balsam bark beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Dryocoetes"
+    },
+    "31": {
+        "name": "Eriosoma lanigerum",
+        "folder_name": "Eriosoma",
+        "most_common_name": "Woolly aphid",
+        "alternates": {
+            "Eriosoma lanigerum": 0,
+            "Woolly aphid": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Aphididae",
+        "genus": "Eriosoma"
+    },
+    "32": {
+        "name": "Eulecanium gigantea",
+        "folder_name": "Eulecanium",
+        "most_common_name": "Eulecanium gigantea",
+        "alternates": {
+            "Eulecanium gigantea": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Coccidae",
+        "genus": "Eulecanium"
+    },
+    "33": {
+        "name": "Gonipterus scutellatus",
+        "folder_name": "Gonipterus",
+        "most_common_name": "Eucalyptus snout beetle",
+        "alternates": {
+            "Gonipterus scutellatus": 0,
+            "Eucalyptus snout beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Gonipterus"
+    },
+    "34": {
+        "name": "Helicoverpa zea",
+        "folder_name": "Helicoverpa",
+        "most_common_name": "Corn earworm",
+        "alternates": {
+            "Helicoverpa zea": 0,
+            "Corn earworm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Noctuidae",
+        "genus": "Helicoverpa"
+    },
+    "35": {
+        "name": "Hemerocampa leucostigma",
+        "folder_name": "Hemerocampa",
+        "most_common_name": "Whitemarked tussock moth",
+        "alternates": {
+            "Hemerocampa leucostigma": 0,
+            "Whitemarked tussock moth": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Erebidae",
+        "genus": "Orgyia"
+    },
+    "36": {
+        "name": "Hoplocerambyx spinicornis",
+        "folder_name": "Hoplocerambyx",
+        "most_common_name": "Sal borer",
+        "alternates": {
+            "Hoplocerambyx spinicornis": 0,
+            "Sal borer": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Hoplocerambyx"
+    },
+    "37": {
+        "name": "Hylobius pales",
+        "folder_name": "Hylobius",
+        "most_common_name": "Pales weevil",
+        "alternates": {
+            "Hylobius pales": 0,
+            "Pales weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Hylobius"
+    },
+    "38": {
+        "name": "Hylotrupes bajulus",
+        "folder_name": "Hylotrupes",
+        "most_common_name": "House longhorn beetle",
+        "alternates": {
+            "Hylotrupes bajulus": 0,
+            "House longhorn beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Hylotrupes"
+    },
+    "39": {
+        "name": "Hylurgus ligniperda",
+        "folder_name": "Hylurgus",
+        "most_common_name": "Red-haired pine bark beetle",
+        "alternates": {
+            "Hylurgus ligniperda": 0,
+            "Red-haired pine bark beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Hylurgus"
+    },
+    "40": {
+        "name": "Hyphantria cunea",
+        "folder_name": "Hyphantria",
+        "most_common_name": "Fall webworm",
+        "alternates": {
+            "Hyphantria cunea": 0,
+            "Fall webworm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Erebidae",
+        "genus": "Hyphantria"
+    },
+    "41": {
+        "name": "Incisitermes minor",
+        "folder_name": "Incisitermes",
+        "most_common_name": "Western drywood termite",
+        "alternates": {
+            "Incisitermes minor": 0,
+            "Western drywood termite": 0
+        },
+        "class": "Insecta",
+        "order": "Blattodea",
+        "family": "Kalotermitidae",
+        "genus": "Incisitermes"
+    },
+    "42": {
+        "name": "Leptinotarsa decemlineata",
+        "folder_name": "Leptinotarsa",
+        "most_common_name": "Colorado potato beetle",
+        "alternates": {
+            "Leptinotarsa decemlineata": 0,
+            "Colorado potato beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Chrysomelidae",
+        "genus": "Leptinotarsa"
+    },
+    "43": {
+        "name": "Liriomyza trifolii",
+        "folder_name": "Liriomyza",
+        "most_common_name": "American serpentine leafminer or celery leafminer",
+        "alternates": {
+            "Liriomyza trifolii": 0,
+            "American serpentine leafminer or celery leafminer": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Agromyzidae",
+        "genus": "Liriomyza"
+    },
+    "44": {
+        "name": "Lissorhoptrus oryzophilus",
+        "folder_name": "Lissorhoptrus",
+        "most_common_name": "Rice water weevil",
+        "alternates": {
+            "Lissorhoptrus oryzophilus": 0,
+            "Rice water weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Erirhinidae",
+        "genus": "Lissorhoptrus"
+    },
+    "45": {
+        "name": "Listronotus bonariensis",
+        "folder_name": "Listronotus",
+        "most_common_name": "Argentine stem weevil or wheat weevil",
+        "alternates": {
+            "Listronotus bonariensis": 0,
+            "Argentine stem weevil or wheat weevil": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Listronotus"
+    },
+    "46": {
+        "name": "Lobesia botrana",
+        "folder_name": "Lobesia",
+        "most_common_name": "European grapevine moth or European grape worm",
+        "alternates": {
+            "Lobesia botrana": 0,
+            "European grapevine moth or European grape worm": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tortricidae",
+        "genus": "Lobesia"
+    },
+    "47": {
+        "name": "Monochamus spp.",
+        "folder_name": "Monochamus",
+        "most_common_name": "Sawyer beetles or sawyers1",
+        "alternates": {
+            "Monochamus spp.": 0,
+            "Sawyer beetles or sawyers1": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Monochamus"
+    },
+    "48": {
+        "name": "Naupactus leucoloma",
+        "folder_name": "Naupactus",
+        "most_common_name": "Whitefringed beetle",
+        "alternates": {
+            "Naupactus leucoloma": 0,
+            "Whitefringed beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Naupactus"
+    },
+    "49": {
+        "name": "Neoclytus acuminatus",
+        "folder_name": "Neoclytus",
+        "most_common_name": "Red-headed ash borer",
+        "alternates": {
+            "Neoclytus acuminatus": 0,
+            "Red-headed ash borer": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Neoclytus"
+    },
+    "50": {
+        "name": "Opogona sacchari",
+        "folder_name": "Opogona",
+        "most_common_name": "Banana moth",
+        "alternates": {
+            "Opogona sacchari": 0,
+            "Banana moth": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Tineidae",
+        "genus": "Opogona"
+    },
+    "51": {
+        "name": "Pantomorus cervinus",
+        "folder_name": "Pantomorus",
+        "most_common_name": "Fuller\u2019s rose beetle",
+        "alternates": {
+            "Pantomorus cervinus": 0,
+            "Fuller\u2019s rose beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Pantomorus"
+    },
+    "52": {
+        "name": "Pharaxonotha kirschi",
+        "folder_name": "Pharaxonotha",
+        "most_common_name": "Mexican grain beetle\u00a0or pleasing fungus beetle",
+        "alternates": {
+            "Pharaxonotha kirschi": 0,
+            "Mexican grain beetle\u00a0or pleasing fungus beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Erotylidae",
+        "genus": "Pharaxonotha"
+    },
+    "53": {
+        "name": "Phoracantha semipunctata",
+        "folder_name": "Phoracantha",
+        "most_common_name": "Australian Eucalyptus longhorn or eucalyptus longhorned borer",
+        "alternates": {
+            "Phoracantha semipunctata": 0,
+            "Australian Eucalyptus longhorn or eucalyptus longhorned borer": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Phoracantha"
+    },
+    "54": {
+        "name": "Pissodes",
+        "folder_name": "Pissodes",
+        "most_common_name": "Weevils",
+        "alternates": {
+            "Pissodes": 0,
+            "Weevils": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Pissodes"
+    },
+    "55": {
+        "name": "Planococ",
+        "folder_name": "Planococ",
+        "most_common_name": "Planococcus minor",
+        "alternates": {
+            "Planococ": 0,
+            "Planococcus minor": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Pseudococcidae",
+        "genus": "Planococcus"
+    },
+    "56": {
+        "name": "Planococcus lilacius",
+        "folder_name": "Planococcus",
+        "most_common_name": "Lilac mealybug",
+        "alternates": {
+            "Planococcus lilacius": 0,
+            "Lilac mealybug": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Pseudococcidae",
+        "genus": "Planococcus"
+    },
+    "57": {
+        "name": "Popillia japonica",
+        "folder_name": "Popillia",
+        "most_common_name": "Japanese beetle",
+        "alternates": {
+            "Popillia japonica": 0,
+            "Japanese beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Scarabaeidae",
+        "genus": "Popillia"
+    },
+    "58": {
+        "name": "Prays citri",
+        "folder_name": "Prays",
+        "most_common_name": "Citrus blossom moth or Citrus young fruit borer",
+        "alternates": {
+            "Prays citri": 0,
+            "Citrus blossom moth or Citrus young fruit borer": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Praydidae",
+        "genus": "Prays"
+    },
+    "59": {
+        "name": "Ptinus tectus",
+        "folder_name": "Ptinus",
+        "most_common_name": "Australian Spider Beetle",
+        "alternates": {
+            "Ptinus tectus": 0,
+            "Australian Spider Beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Ptinidae",
+        "genus": "Ptinus"
+    },
+    "60": {
+        "name": "Reticulitermes lucifugus",
+        "folder_name": "Reticulitermes",
+        "most_common_name": "Reticulitermes lucifugus",
+        "alternates": {
+            "Reticulitermes lucifugus": 0
+        },
+        "class": "Insecta",
+        "order": "Blattodea",
+        "family": "Rhinotermitidae",
+        "genus": "Reticulitermes"
+    },
+    "61": {
+        "name": "Rhagoletis spp.",
+        "folder_name": "Rhagoletis",
+        "most_common_name": "Rhagoletis spp.",
+        "alternates": {
+            "Rhagoletis spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "genus": "Rhagoletis"
+    },
+    "62": {
+        "name": "Saperda spp.",
+        "folder_name": "Saperda",
+        "most_common_name": "Saperda spp.",
+        "alternates": {
+            "Saperda spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Saperda"
+    },
+    "63": {
+        "name": "Scyphophorus acupunctatus",
+        "folder_name": "Scyphophorus",
+        "most_common_name": "Scyphophorus acupunctatus",
+        "alternates": {
+            "Scyphophorus acupunctatus": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Scyphophorus"
+    },
+    "64": {
+        "name": "Sirex noctilio",
+        "folder_name": "Sirex",
+        "most_common_name": "Sirex woodwasp",
+        "alternates": {
+            "Sirex noctilio": 0,
+            "Sirex woodwasp": 0
+        },
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Siricidae",
+        "genus": "Sirex"
+    },
+    "65": {
+        "name": "Solenopsis invicta",
+        "folder_name": "Solenopsis",
+        "most_common_name": "Red imported fire ant",
+        "alternates": {
+            "Solenopsis invicta": 0,
+            "Red imported fire ant": 0
+        },
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "genus": "Solenopsis"
+    },
+    "66": {
+        "name": "Spodoptera littoralis",
+        "folder_name": "Spodoptera",
+        "most_common_name": "Egyptian cotton leafworm moth or Mediterranean Brocade moth",
+        "alternates": {
+            "Spodoptera littoralis": 0,
+            "Egyptian cotton leafworm moth or Mediterranean Brocade moth": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Noctuidae",
+        "genus": "Spodoptera"
+    },
+    "67": {
+        "name": "Stathmopoda skelloni",
+        "folder_name": "Stathmopoda",
+        "most_common_name": "Skellon\u2019s stathmopodid moth",
+        "alternates": {
+            "Stathmopoda skelloni": 0,
+            "Skellon\u2019s stathmopodid moth": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Stathmopodidae",
+        "genus": "Stathmopoda"
+    },
+    "68": {
+        "name": "Taeniothrips inconsequens",
+        "folder_name": "Taeniothrips",
+        "most_common_name": "Western flower thrips or Onion thrips",
+        "alternates": {
+            "Taeniothrips inconsequens": 0,
+            "Western flower thrips or Onion thrips": 0
+        },
+        "class": "Insecta",
+        "order": "Thysanoptera",
+        "family": "Thripidae",
+        "genus": "Taeniothrips"
+    },
+    "69": {
+        "name": "Tetropium spp.",
+        "folder_name": "Tetropium",
+        "most_common_name": "Tetropium spp.",
+        "alternates": {
+            "Tetropium spp.": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Tetropium"
+    },
+    "70": {
+        "name": "Thaumetopoea pityocampa",
+        "folder_name": "Thaumetopoea",
+        "most_common_name": "Pine processionary moth or Thaumetopoea pityocampa (TPM)",
+        "alternates": {
+            "Thaumetopoea pityocampa": 0,
+            "Pine processionary moth or Thaumetopoea pityocampa (TPM)": 0
+        },
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Notodontidae",
+        "genus": "Thaumetopoea"
+    },
+    "71": {
+        "name": "Toxotrypana curvicauda",
+        "folder_name": "Toxotrypana",
+        "most_common_name": "Curvicauda fruit fly or Toxotrypana curvicauda (Gerstaecker)",
+        "alternates": {
+            "Toxotrypana curvicauda": 0,
+            "Curvicauda fruit fly or Toxotrypana curvicauda (Gerstaecker)": 0
+        },
+        "class": "Insecta",
+        "order": "Diptera",
+        "family": "Tephritidae",
+        "genus": "Toxotrypana"
+    },
+    "72": {
+        "name": "Tribolium destructor",
+        "folder_name": "Tribolium",
+        "most_common_name": "Red flour beetle",
+        "alternates": {
+            "Tribolium destructor": 0,
+            "Red flour beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Tenebrionidae",
+        "genus": "Tribolium"
+    },
+    "73": {
+        "name": "Trogoderma spp.",
+        "folder_name": "Trogoderma",
+        "most_common_name": "Khapra beetle",
+        "alternates": {
+            "Trogoderma spp.": 0,
+            "Khapra beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Dermestidae",
+        "genus": "Trogoderma"
+    },
+    "74": {
+        "name": "Vesperus",
+        "folder_name": "Vesperus",
+        "most_common_name": "Ground beetle or Carabid beetle",
+        "alternates": {
+            "Vesperus": 0,
+            "Ground beetle or Carabid beetle": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Carabidae",
+        "genus": "Vesperus"
+    },
+    "75": {
+        "name": "Viteus vitifoliae",
+        "folder_name": "Viteus",
+        "most_common_name": "Grapeleaf skeletonizer",
+        "alternates": {
+            "Viteus vitifoliae": 0,
+            "Grapeleaf skeletonizer": 0
+        },
+        "class": "Insecta",
+        "order": "Hemiptera",
+        "family": "Phylloxeridae",
+        "genus": "Daktulosphaira"
+    },
+    "76": {
+        "name": "Xyleborus spp.",
+        "folder_name": "Xyleborus",
+        "most_common_name": "Ambrosia beetles",
+        "alternates": {
+            "Xyleborus spp.": 0,
+            "Ambrosia beetles": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Curculionidae",
+        "genus": "Xyleborus"
+    },
+    "77": {
+        "name": "Xylotrechus rusticus",
+        "folder_name": "Xylotrechus",
+        "most_common_name": "Xylotrechus rusticus (Banded Alder Borer)",
+        "alternates": {
+            "Xylotrechus rusticus": 0,
+            "Xylotrechus rusticus (Banded Alder Borer)": 0
+        },
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Cerambycidae",
+        "genus": "Xylotrechus"
+    }
+}

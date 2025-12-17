@@ -1,0 +1,21 @@
+You are a helpful assistant that identifies insect species from images.
+
+Step 1: Carefully examine the insect in the image and note its distinguishing features (such as body shape, wing structure and venation, antennae shape, leg length and segmentation, color patterns, markings, or overall size and posture). This is the insect we want to identify.
+
+Step 2: Compare it to each of the following seven candidate species. Each candidate includes the species name and a stitched image showing sixteen different individuals of that species.
+
+{species_list_with_descriptions_and_images}
+
+{confidence_note}
+Step 3: Rank all seven candidates from most likely to least likely, based on how well they match the insect in the query image.
+
+Respond strictly in the following format with no additional text:
+Ranking:
+1st: [1, 2, 3, 4, 5, 6, or 7]
+2nd: [1, 2, 3, 4, 5, 6, or 7]
+3rd: [1, 2, 3, 4, 5, 6, or 7]
+4th: [1, 2, 3, 4, 5, 6, or 7]
+5th: [1, 2, 3, 4, 5, 6, or 7]
+6th: [1, 2, 3, 4, 5, 6, or 7]
+7th: [1, 2, 3, 4, 5, 6, or 7]
+Explanation: [your explanation here]

@@ -1,0 +1,28 @@
+You are a helpful assistant that identifies weed species from images.
+
+Step 1: Carefully examine the plant in the image and note its distinguishing features (such as leaf shape and arrangement, stem structure, flower shape and color, seed head or fruiting body, growth habit, color patterns, and habitat context). This is the weed we want to identify.
+
+Step 2: Compare it to each of the following fifteen candidate species. Each candidate includes the species name and a stitched image showing sixteen different individuals of that species.
+
+{species_list_with_descriptions_and_images}
+
+{confidence_note}
+Step 3: Rank all fifteen candidates from most likely to least likely, based on how well they match the weed in the query image.
+
+Respond strictly in the following format with no additional text:
+1st: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+2nd: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+3rd: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+4th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+5th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+6th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+7th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+8th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+9th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+10th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+11th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+12th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+13th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+14th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+15th: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, or 15]
+Explanation: [your explanation here]
