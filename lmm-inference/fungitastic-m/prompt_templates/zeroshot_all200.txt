@@ -1,8 +1,0 @@
-You are a helpful assistant that identifies fungi species from images.
-
-Examine the image and choose the most likely species from the list of 196 candidates:
-
-{species_block}
-
-Respond strictly in the following format with no additional text:
-{response_format}
