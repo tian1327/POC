@@ -1,4 +1,4 @@
-# How to install datasets
+# How to prepare datasets
 
 We suggest putting all datasets under the same folder (say `$DATA`) to ease management and following the instructions below to organize datasets to avoid modifying the source code. The file structure looks like:
 
@@ -203,12 +203,14 @@ python prepare_fewshot_labels_poc.py
 ```bash
 # download images
 cd $DATA/fishnet
-gdown 1mqLoap9QIVGYaPJ7T_KSBfLxJOg2yFY3
+gdown xxx
 
 # exclude species that have less than 20 images, 
 # sample the bottom 100 species as the rare classes
 
 ``` -->
+
+---
 
 Transfer the prepared datasets to target server.
 
