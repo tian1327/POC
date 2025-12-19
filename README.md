@@ -7,7 +7,7 @@
 <br>
 *The first two authors contribute equally. 
 
-<a href="https://arxiv.org/abs/xxxx"><img src='https://img.shields.io/badge/arXiv-POC-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2512.15748"><img src='https://img.shields.io/badge/arXiv-POC-red' alt='Paper PDF'></a>
 <a href='https://tian1327.github.io/POC/'><img src='https://img.shields.io/badge/Project_Page-POC-green' alt='Project Page'></a>
 </div>
 
@@ -159,11 +159,10 @@ See [QUERYLMM.md](./QUERYLMM.md) for instructions on running query with each LMM
 If you find our project useful, please consider citing our related works:
 
 ```bibtex
-
 @article{liu2025poc,
 title={Surely Large Multimodal Models (Don’t) Excel in Visual Species Recognition?}, 
 author={Liu, Tian and Basu, Anwesha and Kong, Shu},
-journal={arXiv preprint arXiv:xxxx.xxxxx},
+journal={arXiv preprint arXiv:2512.15748},
 year={2025}
 }
 
