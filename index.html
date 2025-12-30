@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriately as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="">
+  <meta property="og:title" content="Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?" />
+  <meta property="og:description" content="" />
+  <meta property="og:url" content="" />
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/images/POC.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+
+  <meta name="twitter:title" content="Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?">
+  <meta name="twitter:description" content="">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/POC.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="VLMs,few-shot_recognition">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?</title>
+  <!-- <link rel="icon" type="image/x-icon" href="static/images/favicon.ico"> -->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?
+            </h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://tian1327.github.io/" target="_blank">Tian Liu</a><sup>*1</sup>,</span>
+              <span class="author-block">
+                <a href="https://www.linkedin.com/in/anweshabasu98/" target="_blank">Anwesha Basu</a><sup>*1</sup>,</span>
+              <span class="author-block">
+                <a href="https://people.engr.tamu.edu/caverlee/index.html" target="_blank">James Caverlee</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://aimerykong.github.io/" target="_blank">Shu Kong</a><sup>2</sup>
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>Texas A&M University<br></span>&nbsp;
+              <span class="author-block"><sup>2</sup>University of Macau<br></span>
+            </div>
+
+            <div class="is-size-6 publication-authors">
+              <span class="author-block"><sup>*</sup> The first two authors make equal contributions</span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- Arxiv PDF link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/pdf/2512.15748" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.com/tian1327/POC" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2512.15748" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+
+                <!-- <span class="link-block">
+                  <a href="https://tian1327.github.io/data/POC_CVPR'26_poster.pdf" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Poster</span>
+                  </a>
+                </span> -->
+                  <!-- <h2><strong style="color: red; font-size: x-large;">CVPR 2025, CVinW and FGVC12 Workshops</strong></h2> -->
+              </div>
+            </div>
+            <!-- <h1><strong style="color: red; font-size: x-large;">CVPR 2024</strong></h1> -->
+            <h2 class="subtitle has-text-centered">
+              <!-- <b>tl;dr:</b> We explore retriaval-augmented learning for<br>few-shot recognition using Vision-Language Models</h2> -->
+              <b>tl;dr:</b> We find LMMs struggles in VSR, yet they can significantly boost <br> few-shot recognition performance through post-hoc correction.</h2>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <!-- Paper overview -->
+    <section class="section hero is-light">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <h2 class="title is-3">Motivation</h2>
+            <div class="content has-text-justified">
+              <p style="text-align: justify;">
+                          
+                <b>Visual Species Recognition (VSR)</b> is pivotal to biodiversity assessment and conservation, evolution research, and ecology
+                and ecosystem management. Training a machine-learned model for VSR typically requires vast amounts of annotated
+                images. Yet, species-level annotation demands domain expertise, making it realistic for domain experts to annotate only a
+                few examples. These limited labeled data motivate training
+                an <b>“expert” model via few-shot learning (FSL)</b>. Meanwhile,
+                advanced <b>Large Multimodal Models (LMMs)</b> have demonstrated prominent performance on general recognition tasks.
+                In this work, we investigate 
+                <i>whether LMMs excel in the highly
+                specialized VSR task and whether they outshine FSL expert
+                models.</i>
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="section hero is-light2">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <h2 class="title is-3">Overview of Findings</h2>
+            <div class="content has-text-justified">
+
+              <div class="item">
+                <!-- Your image here -->
+                <img src="static/images/teaser.png" alt="1" style="width: 600px; height: auto; display: block; margin: 0 auto;"/>
+                <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
+                  Over five challenging fine-grained biological datasets, we show that:
+                  <ol>
+                    <!-- <li><span style="color: orange;">finetuning on retrieved data</span> merely outperforms zero-shot methods due to domain gap and imbalanced distribution.</li> -->
+                    <li><span style="color: hotpink;">LMMs (e.g., Qwen-2.5-VL-7B-Instruct)</span>, although being pretrained on web-scale data,
+                      struggle in VSR and significantly 
+                      underperform the FSL expert model, even with established Chain-of-Thought or Self-Verification prompting.</li>
+
+                    <li><span style="color: blue;">Few-shot learned expert</span>, e.g., simply finetuning a VLM such as OpenCLIP's visual encoder
+                      on the few-shot data,
+                      significantly outperforms
+                      LMMs in VSR.</li>
+
+                    <li><span style="color: green;">Leveraging LMMs via Post-hoc Correction (POC)</span>, i.e., feeding the top-k predictions
+                      from the expert model to a LMM and asking it to select the most probable prediction, significantly 
+                      improves few-shot VSR performance.</li>
+                    </li>
+                  </ol>
+                </p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Insights</h2>
+          <h3 class="title is-4">Top-k predictions by expert often contain correct predictions</h3>
+          <div class="content has-text-justified">
+
+            <div class="item">
+              <!-- Your image here -->
+              <img src="static/images/topk_examples.png" alt="1" style="width: auto; height: auto; display: block; margin: 0 auto;"/>
+              <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
+                We show examples of test images from five VSR benchmarks,
+                along with an expert model’s top-3 predicted species and softmax
+                confidence scores. A reference image is provided for each predicted
+                species. The
+                prevalence of visually similar species among top-3 predictions
+                underscores the challenges of VSR. Notably, even when top-1
+                predictions are <span style="color: red;">incorrect (marked by red boxes)</span>, the top-3 often
+                contain <span style="color: green;">correct species (marked by green boxes)</span>. Importantly,
+                LMM can identify the correct ones through a post-hoc process!
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section class="section hero is-light1">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Solution</h2>
+          <h3 class="title is-4">Leveraging LMMs via Post-hoc Correction (POC)</h3>
+          <div class="content has-text-justified">
+
+            <div class="item">
+              <!-- Your image here -->
+              <img src="static/images/poc.png" alt="1" style="width: auto; height: auto; display: block; margin: 0 auto;"/>
+              <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
+                We propose <b>Post-hoc Correction (POC)</b> to leverage LMMs to
+                enhance few-shot VSR. 
+                Specifically, for a test image, the expert model predicts the top-k species along with their corresponding
+                softmax confidence scores. Then, POC constructs a few-shot in-context prompt by supplementing the test image with top-k species
+                names, confidences, and few-shot examples. Based on the given context, the LMM is instructed to re-rank the top-k species. Finally, the
+                top-ranked species from its output is returned as the final prediction. 
+
+                <br>
+                <br>
+
+                POC effectively combines the expert
+                model's proficiency in few-shot learning with the LMM's broad
+                knowledge, leading to improved VSR performance, <b>without extra training, validation, or human intervention</b>.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Results</h2>
+          <h3 class="title is-4">POC significantly improves existing few-shot learning methods</h3>
+          <div class="content has-text-justified">
+            <img src="static/images/improve_fsr.png" alt="comparison with SOTA."
+                style="height: auto; display: block; margin: 10px;">
+              <p>
+                Remarkably, we show that POC serves as a simple and effective <b>plug-in method</b> that significantly 
+                boosts various existing few-shot learning methods by upto 14%, including prompt learning, adapter 
+                learning, linear probing, and full finetuning, etc.
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+  <!-- Text-Image generation -->
+  <section class="section hero is-light1">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <!-- <h2 class="title is-3">Results</h2> -->
+          <h3 class="title is-4">POC generalizes across different pretrained backbones and LMMs</h3>
+          <div class="content has-text-justified">
+            <div class="item">
+              <!-- Your image here -->
+              <img src="static/images/poc_generalization.png" alt="1" style="width: 2000px; height: auto; display: block; margin: 0 auto;"/>
+              <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
+                <!-- Compareing SWAT -->
+                <ul>
+                  <li>Left: we compare the  mean accuracy of POC over five benchmarks with few-shot experts learned with various pretrained backbones.
+                    Results show that POC consistently improves few-shot VSR across different backbones, with small standard deviations.
+                  </li>
+                  <li>
+                    Right: we compare the accuracy across five benchmarks with different LMMs, including the open-sourced ones like 
+                    Qwen-2.5-VL-7B-Instruct and GLM-4.1V-9B-Thinking, and the proprietary ones like GPT-5-Mini. 
+                    Results show that POC yields consistent performance gains across different LMMs.
+                </ul>
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Acknowledgement -->
+
+
+  <!--BibTex citation -->
+  <section class="section hero is-light1" id="BibTeX">
+    <div class="container is-max-desktop content ">
+      <h2 class="title">BibTeX</h2>
+      <p> If you find our work useful, please consider citing our papers:</p>
+      <pre><code>
+@article{liu2025poc,
+title={Surely Large Multimodal Models (Don’t) Excel in Visual Species Recognition?}, 
+author={Liu, Tian and Basu, Anwesha and Kong, Shu},
+journal={arXiv preprint arXiv:2512.15748},
+year={2025}
+}
+
+@inproceedings{liu2025few,
+    title={Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning},
+    author={Liu, Tian and Zhang, Huixin and Parashar, Shubham and Kong, Shu},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2025}
+}
+  </code></pre>
+    </div>
+  </section>
+  <!--End BibTex citation -->
+
+</body>
+
+</html>
