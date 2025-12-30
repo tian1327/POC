@@ -23,6 +23,7 @@ We explore the capability of Large Multimodal Models (LMMs) in visual species re
 ## News
 
 - **2025-12-16:** POC code is released.
+- **2025-12-10:** arXiv preprint is published.
 
 <!-- - **2025-12-06:** We release pre-created `laion400m.db` file for easy retrieval. See [RETRIEVAL.md](./retrieval/RETRIEVAL.md).
 - **2025-05-27:** SWAT is accepted to 4th CVinW and FGVC12 workshops at CVPR'25! 
@@ -34,15 +35,8 @@ We explore the capability of Large Multimodal Models (LMMs) in visual species re
 - **2024-06-28:** [project page](https://tian1327.github.io/SWAT/) launched.
 - **2024-06-17:** [arXiv paper](https://arxiv.org/abs/2406.11148) released. -->
 
-## Related Works
 
-Check out our related works below:
-- [Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective](https://tian1327.github.io/SWIFT/) (arXiv 2025)
-- [Enabling Validation for Robust Few-Shot Recognition](https://hannawang09.github.io/projects/vest/) (arXiv 2025)
-- [Few-Shot Recognition via Stage-Wise Retrieval-Augmented Finetuning](https://tian1327.github.io/SWAT/) (CVPR 2025)
-- [The Neglected Tails in Vision-Language Models](https://shubhamprshr27.github.io/neglected-tails-of-vlms/) (CVPR 2024)
-
----
+<!-- --- -->
 
 ## Create Environment
 
@@ -154,9 +148,17 @@ cd post-hoc_correction/lmm-inference
 See [QUERYLMM.md](./QUERYLMM.md) for instructions on running query with each LMM. 
 
 
-## Citation
+## Related Works
 
-If you find our project useful, please consider citing our related works:
+Check out our related works below:
+- [SWIFT](https://tian1327.github.io/SWIFT/) (arXiv 2025): enabling successful semi-supervised learning with VLM
+- [VEST](https://hannawang09.github.io/projects/vest/) (arXiv 2025): retriving open data for validation in few-shot learning
+- [SWAT](https://tian1327.github.io/SWAT/) (CVPR 2025): retrieving open data for few-shot finetuning a VLM
+- [REAL](https://shubhamprshr27.github.io/neglected-tails-of-vlms/) (CVPR 2024): uncovering the failures and causes in zero-shot VLMs
+
+## Citations
+
+If you find our project useful, please consider citing our works:
 
 ```bibtex
 @article{liu2025poc,
@@ -173,7 +175,7 @@ journal={arXiv preprint arXiv:2512.10244},
 year={2025}
 }
 
-@article{wang2025robust,
+@article{wang2025enabling,
 title={Enabling Validation for Robust Few-Shot Recognition}, 
 author={Wang, Hanxin and Liu, Tian and Kong, Shu},
 journal={arXiv preprint arXiv:2506.04713},
