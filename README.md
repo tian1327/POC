@@ -152,7 +152,7 @@ See [QUERYLMM.md](./QUERYLMM.md) for instructions on running query with each LMM
 
 Check out our related works below:
 - [SWIFT](https://tian1327.github.io/SWIFT/) (arXiv 2025): enabling successful semi-supervised learning with VLM
-- [VEST](https://hannawang09.github.io/projects/vest/) (arXiv 2025): retriving open data for validation in few-shot learning
+- [VEST](https://hannawang09.github.io/projects/vest/) (arXiv 2025): retrieving open data for validation in few-shot learning
 - [SWAT](https://tian1327.github.io/SWAT/) (CVPR 2025): retrieving open data for few-shot finetuning a VLM
 - [REAL](https://shubhamprshr27.github.io/neglected-tails-of-vlms/) (CVPR 2024): uncovering the failures and causes in zero-shot VLMs
 
