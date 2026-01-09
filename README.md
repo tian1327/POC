@@ -140,12 +140,35 @@ python finer_topk.py \
 
 ```bash
 conda activate qwen
+cd POC_dev/lmm-inference/
 
-cd post-hoc_correction/lmm-inference
+# generate few-shot reference images by stitching them together
+python pregenerate_reference_images.py \
+  --class-json ../data/species196_insecta/species196_insecta_labels.json \
+  --k 4 \
+  --dataset species196_insecta \
+  --seed-file ../data/species196_insecta/fewshot16_seed1.txt \
+  --image-root /home/ltmask/dataset/species196_insecta \
+  --output-dir /home/ltmask/dataset/species196_insecta
 
-# run the query script
+# run POC with Qwen2.5-VL-7B-Instruct
+python run_inference_local_hf.py \
+  --prompt-template top5-multimodal-4shot-with-confidence_ranking \
+  --prompt-dir species196_insecta \
+  --backend huggingface \
+  --hf-model-name-or-path Qwen/Qwen2.5-VL-7B-Instruct \
+  --config-yaml ../config.yml \
+  --image-dir species196_insecta \
+  --image-paths ../data/species196_insecta/test.txt \
+  --ref-image-dir /home/ltmask/dataset/species196_insecta/pregenerated_references_4shot \
+  --taxonomy-json ../data/species196_insecta/species196_insecta_labels.json \
+  --topk-json /home/ltmask/POC_dev/hanna/finetune_vitb32_openclip_laion400m_species196_insecta_4_1_topk_test_predictions_fixed.json \
+  --output-csv /home/ltmask/POC_dev/hanna/output.csv \
+  --error-file /home/ltmask/POC_dev/hanna/error.txt \
+  --max_new_tokens 900
 ```
-See [QUERYLMM.md](./QUERYLMM.md) for instructions on running query with each LMM. 
+
+See [QUERYLMM.md](./QUERYLMM.md) for more detailed instructions on running query with each LMM. 
 
 
 ## Related Works

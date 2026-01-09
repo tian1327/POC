@@ -25,10 +25,9 @@ python run_inference_local_hf.py \
   --output-csv ../path/to/your/output.csv \
   --error-file ../path/to/your/error.txt \
   --max_new_tokens 900
-
 ```
 
-(2) Example of zeroshot prompting LMM
+(2) Example of zero-shot prompting LMM
 
 ```bash
 python run_inference_local_hf.py \
@@ -91,7 +90,7 @@ python glm_inference.py \
 
 ```
 
-(2) Example of zeroshot prompting LMM
+(2) Example of zero-shot prompting LMM
 
 ```bash
 python glm_inference.py \
@@ -133,7 +132,7 @@ python gpt_inference.py \
   --throttle-sec 0.5
 ```
 
-(2) Example of zeroshot prompting
+(2) Example of zero-shot prompting
 
 ```bash
 python gpt_inference.py \
