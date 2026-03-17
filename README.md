@@ -186,7 +186,7 @@ If you find our project useful, please consider citing our works:
 ```bibtex
 @article{liu2025poc,
 title={Surely Large Multimodal Models (Don’t) Excel in Visual Species Recognition?}, 
-author={Liu, Tian and Basu, Anwesha and Kong, Shu},
+author={Liu, Tian and Basu, Anwesha and Caverlee, James and Kong, Shu},
 journal={arXiv preprint arXiv:2512.15748},
 year={2025}
 }
