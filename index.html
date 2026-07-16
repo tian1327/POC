@@ -25,7 +25,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-  <title>Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?</title>
+  <title>Visual Species Recognition with Large Multimodal Models as Post-Hoc Correctors</title>
   <!-- <link rel="icon" type="image/x-icon" href="static/images/favicon.ico"> -->
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
@@ -52,7 +52,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?
+            <h1 class="title is-1 publication-title">Visual Species Recognition with Large Multimodal Models as Post-Hoc Correctors
             </h1>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
@@ -126,7 +126,7 @@
             <!-- <h1><strong style="color: red; font-size: x-large;">CVPR 2024</strong></h1> -->
             <h2 class="subtitle has-text-centered">
               <!-- <b>tl;dr:</b> We explore retriaval-augmented learning for<br>few-shot recognition using Vision-Language Models</h2> -->
-              <b>tl;dr:</b> We find LMMs struggles in VSR, yet they can significantly boost <br> few-shot recognition performance through post-hoc correction.</h2>
+              <b>tl;dr:</b> We find Large Multimodal Models struggle in VSR, yet they can significantly boost <br> few-shot recognition performance through post-hoc correction.</h2>
 
           </div>
         </div>
@@ -142,14 +142,14 @@
             <h2 class="title is-3">Motivation</h2>
             <div class="content has-text-justified">
               <p style="text-align: justify;">
-                          
+
                 <b>Visual Species Recognition (VSR)</b> is pivotal to biodiversity assessment and conservation, evolution research, and ecology
                 and ecosystem management. Training a machine-learned model for VSR typically requires vast amounts of annotated
                 images. Yet, species-level annotation demands domain expertise, making it realistic for domain experts to annotate only a
                 few examples. These limited labeled data motivate training
                 an <b>“expert” model via few-shot learning (FSL)</b>. Meanwhile,
                 advanced <b>Large Multimodal Models (LMMs)</b> have demonstrated prominent performance on general recognition tasks.
-                In this work, we investigate 
+                In this work, we investigate
                 <i>whether LMMs excel in the highly
                 specialized VSR task and whether they outshine FSL expert
                 models.</i>
@@ -171,23 +171,23 @@
 
               <div class="item">
                 <!-- Your image here -->
-                <img src="static/images/teaser.png" alt="1" style="width: 600px; height: auto; display: block; margin: 0 auto;"/>
+                <img src="static/images/teaser_v2.png" alt="1" style="width: 800px; height: auto; display: block; margin: 0 auto;"/>
                 <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
                   Over five challenging fine-grained biological datasets, our experiments show that:
                   <ol>
                     <!-- <li><span style="color: orange;">finetuning on retrieved data</span> merely outperforms zero-shot methods due to domain gap and imbalanced distribution.</li> -->
                     <li><span style="color: hotpink;">LMMs (e.g., Qwen-2.5-VL-7B-Instruct)</span>, although being pretrained on web-scale data,
-                      struggle in VSR and significantly 
+                      struggle in VSR and significantly
                       underperform the FSL expert model, even with established Chain-of-Thought or Self-Verification prompting.</li>
 
                     <li><span style="color: blue;">Few-shot learned expert</span>, e.g., simply finetuning a VLM such as OpenCLIP's visual encoder
                       on the few-shot data,
                       significantly outperforms
-                      LMMs in VSR.</li>
+                      LMMs.</li>
 
                     <li><span style="color: green;">Leveraging LMMs via Post-hoc Correction (POC)</span>, i.e., feeding the top-k predictions
-                      from the expert model to a LMM and asking it to select the most probable prediction, significantly 
-                      improves few-shot VSR performance.</li>
+                      from the FSL expert to a LMM and asking it to select the most probable prediction, significantly
+                      improves VSR performance.</li>
                     </li>
                   </ol>
                 </p>
@@ -204,12 +204,12 @@
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
           <h2 class="title is-3">Insights</h2>
-          <h3 class="title is-4">Top-k predictions by expert often contain correct answer</h3>
+          <h3 class="title is-4">Top-k predictions by FSL expert often contain the correct answer</h3>
           <div class="content has-text-justified">
 
             <div class="item">
               <!-- Your image here -->
-              <img src="static/images/topk_examples.png" alt="1" style="width: auto; height: auto; display: block; margin: 0 auto;"/>
+              <img src="static/images/topk_examples_v2.png" alt="1" style="width: 600px; height: auto; display: block; margin: 0 auto;"/>
               <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
                 We show examples of test images from five VSR benchmarks,
                 along with an expert model’s top-3 predicted species and softmax
@@ -217,9 +217,9 @@
                 species. The
                 prevalence of visually similar species among top-3 predictions
                 underscores the challenges of VSR. Notably, even when top-1
-                predictions are <span style="color: red;">incorrect (marked by red boxes)</span>, the top-3 often
-                contain <span style="color: green;">correct species (marked by green boxes)</span>. Importantly,
-                LMM can identify the correct ones through a post-hoc process!
+                predictions are <span style="color: red;">incorrect</span>, the top-3 often
+                contain <span style="color: green;">correct species</span>. Importantly,
+                LMM can identify the correct ones as a post-hoc corrector!
               </p>
             </div>
 
@@ -244,18 +244,18 @@
               <img src="static/images/POC.png" alt="1" style="width: auto; height: auto; display: block; margin: 0 auto;"/>
               <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
                 We propose <b>Post-hoc Correction (POC)</b> to leverage LMMs to
-                enhance few-shot VSR. 
-                Specifically, for a test image, the expert model predicts the top-k species along with their corresponding
-                softmax confidence scores. Then, POC constructs a few-shot in-context prompt by supplementing the test image with top-k species
-                names, confidences, and few-shot examples. Based on the given context, the LMM is instructed to re-rank the top-k species. Finally, the
-                top-ranked species from its output is returned as the final prediction. 
+                enhance few-shot VSR.
+                Specifically, for a test image, the FSL expert predicts the top-k species along with their corresponding
+                softmax confidence scores. Then, POC constructs a multimodal prompt by supplementing the test image with top-k species
+                names, confidences, and few-shot examples. Based on the given context, the LMM is instructed to re-rank the top-k species, where the
+                top-ranked species from its output is chosen as the final prediction.
 
                 <br>
                 <br>
 
-                POC effectively combines the expert
-                model's proficiency in few-shot learning with the LMM's broad
-                knowledge, leading to improved VSR performance, <b>without extra training, validation, or human intervention</b>.
+                <!-- POC effectively combines the expert -->
+                <!-- model's proficiency in few-shot learning with the LMM's broad -->
+                <!-- knowledge, leading to improved VSR performance, <b>without extra training, validation, or human intervention</b>. -->
               </p>
             </div>
           </div>
@@ -276,8 +276,8 @@
             <img src="static/images/improve_fsr.png" alt="comparison with SOTA."
                 style="height: auto; display: block; margin: 10px;">
               <p>
-                Remarkably, we show that POC serves as a simple and effective <b>plug-in method</b> that significantly 
-                boosts various existing few-shot learning methods by upto 14%, including prompt learning, adapter 
+                Remarkably, we show that POC serves as a simple and effective <b>plug-in method</b> that significantly
+                boosts various existing few-shot learning methods by upto 14%, including prompt learning, adapter
                 learning, linear probing, and full finetuning, etc.
               </p>
           </div>
@@ -299,16 +299,16 @@
           <div class="content has-text-justified">
             <div class="item">
               <!-- Your image here -->
-              <img src="static/images/poc_generalization.png" alt="1" style="width: 2000px; height: auto; display: block; margin: 0 auto;"/>
+              <img src="static/images/poc_generalization_v2.png" alt="1" style="width: 2000px; height: auto; display: block; margin: 0 auto;"/>
               <p style="text-align: justify; font-size: 16px; line-height: 1.5; margin-top: 10px; color: #333;">
                 <!-- Compareing SWAT -->
                 <ul>
                   <li>Left: we compare the  mean accuracy of POC over five benchmarks with few-shot experts learned with various pretrained backbones.
-                    Results show that POC consistently improves few-shot VSR across different backbones, with small standard deviations.
+                    Results show that POC consistently improves few-shot VSR across different backbones, with small standard deviations across three runs.
                   </li>
                   <li>
-                    Right: we compare POC's accuracies across five benchmarks with different LMMs, including the open-sourced ones like 
-                    Qwen-2.5-VL-7B-Instruct and GLM-4.1V-9B-Thinking, and the proprietary ones like GPT-5-Mini. 
+                    Right: we compare POC's accuracies across five benchmarks with different LMMs, including the open-sourced ones like
+                    Qwen-2.5-VL-7B-Instruct and GLM-4.1V-9B-Thinking, and the proprietary ones like GPT-5-Mini.
                     Results show that POC yields consistent performance gains across different LMMs.
                 </ul>
               </p>
@@ -330,11 +330,11 @@
       <h2 class="title">BibTeX</h2>
       <p> If you find our work useful, please consider citing our papers:</p>
       <pre><code>
-@article{liu2025poc,
-title={Surely Large Multimodal Models (Don’t) Excel in Visual Species Recognition?}, 
+@article{liu2026poc,
+title={Visual Species Recognition with Large Multimodal Models as Post-Hoc Correctors},
 author={Liu, Tian and Basu, Anwesha and Kong, Shu},
 journal={arXiv preprint arXiv:2512.15748},
-year={2025}
+year={2026}
 }
 
 @inproceedings{liu2025few,
